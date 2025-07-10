@@ -1,0 +1,11 @@
+{
+    "format": "r1",
+    "quailtyFormats": [
+        {
+            "max": ".wav",
+            "high": ".mp3",
+            "medium": ".m4a",
+            "low": ".m4a"
+        }
+    ]
+}
