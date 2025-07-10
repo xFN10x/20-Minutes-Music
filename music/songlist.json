@@ -7,5 +7,14 @@
             "medium": ".m4a",
             "low": ".m4a"
         }
-    ]
+    ],
+    "random_songs": [
+        "Critical_Error",
+        "Dont_Run_Out",
+        "Oil_on_the_Rhoad",
+        "Oil_Runs",
+        "Shopping_Spree"
+    ],
+    "titleSone": "20_Minutes",
+    "crunchSong": "Oil_Runs"
 }
