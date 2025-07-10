@@ -1,13 +1,11 @@
 {
     "format": "r1",
-    "quailtyFormats": [
-        {
-            "max": ".wav",
-            "high": ".mp3",
-            "medium": ".m4a",
-            "low": ".m4a"
-        }
-    ],
+    "quailtyFormats": {
+        "max": ".wav",
+        "high": ".mp3",
+        "medium": ".m4a",
+        "low": ".m4a"
+    },
     "random_songs": [
         "Critical_Error",
         "Dont_Run_Out",
@@ -15,6 +13,6 @@
         "Oil_Runs",
         "Shopping_Spree"
     ],
-    "titleSone": "20_Minutes",
+    "titleSong": "20_Minutes",
     "crunchSong": "Oil_Runs"
 }
